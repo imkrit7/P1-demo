@@ -5,6 +5,10 @@ This contract enables users to participate in a basic timed auction using Ethere
 
 ---
 
+
+<img width="1827" height="853" alt="image" src="https://github.com/user-attachments/assets/3e269718-8505-46be-8c40-81527c8f1e65" />
+
+
 ## 📖 Project Description
 
 **SimpleAuction** is a beginner-friendly smart contract that demonstrates the fundamentals of building a decentralized auction system on Ethereum.  
